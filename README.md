@@ -24,6 +24,6 @@ Follow the tutorial to obtain SLACK_BOT_TOKEN and BOT_ID then put them in creden
 - NLTK library
 - DynamoDB, API Gateway, AWS Lambda
 
-#### Architecture of the system we implemented:
+#### Architecture of the system :
 
 ![alt text](https://raw.githubusercontent.com/SwathiKoduri/CourseBot-SJSU/master/SystemArchitecture.png)
